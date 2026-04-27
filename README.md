@@ -1,4 +1,4 @@
-# Sales API
+# ambev-backend-challenge
 
 This project implements a Sales API as part of a developer evaluation.  
 It follows Clean Architecture principles using .NET, MediatR, and Entity Framework Core.
